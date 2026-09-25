@@ -1,0 +1,7 @@
+ID;Ciudad;Producto;Cantidad;Precio_Unitario;Vendedor
+101;Bogotá;Laptop;2;1200.0;Ana
+102;Medellín;Mouse;;25.0;Carlos
+103;Cali;Teclado;5;45.0;Ana
+104;Bogotá;Monitor;1;800.0;
+105;Medellín;Laptop;3;1200.0;Luis
+106;Cali;Mouse;10;25.0;Carlos
